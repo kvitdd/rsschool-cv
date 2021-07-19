@@ -1,2 +1,2 @@
 Resume about me 
-Diana
+Diana Trotskaya

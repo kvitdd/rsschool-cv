@@ -1,0 +1,141 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+.section {
+  max-width: 930px;
+  position: relative;
+  margin: auto;
+}
+.table {
+  border: 2px solid rgba(0, 0, 0, 0.12);
+  width: 929px;
+  height: 1530px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+  margin: 0 auto;
+}
+body {
+  font-family: "Sawarabi Mincho", sans-serif;
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: normal;
+  color: black;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+.name {
+  z-index: 1;
+  color: white;
+  font-size: 48px;
+  line-height: 71px;
+  padding-left: 546px;
+  margin-top: -200px;
+  font-weight: normal;
+}
+
+.about {
+  font-size: 24px;
+  line-height: 35px;
+  /*font-weight: normal;*/
+}
+.about-info {
+  margin-top: 15px;
+}
+.contact {
+  margin-top: 30px;
+  font-size: 24px;
+  line-height: 35px;
+  /*font-weight: normal;*/
+}
+.contacts {
+  margin-top: 15px;
+}
+.education {
+  margin-top: 30px;
+  font-size: 24px;
+  line-height: 35px;
+  /*font-weight: normal;*/
+}
+span {
+  display: block;
+}
+.education-info {
+  margin-top: 15px;
+}
+.git {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+ul {
+  padding: 0px;
+  margin: 0px;
+}
+.figura-img {
+  position: absolute;
+  margin-left: 460px;
+  top: -151px;
+  width: 1000px;
+  height: 900px;
+  z-index: -1;
+}
+.ava-img {
+  padding-left: 65px;
+  padding-top: 96px;
+}
+.ramka-img {
+  position: absolute;
+  padding-left: 4px;
+  top: 27.5px;
+}
+.footer {
+  margin-top: 60px;
+  margin-left: 65px;
+}
+.container {
+  padding-left: 65px;
+  padding-top: 100px;
+}
+.logo-img {
+  padding-left: 450px;
+}
+.skills {
+  margin-top: 30px;
+  font-size: 24px;
+  line-height: 35px;
+}
+.code {
+  margin-top: 30px;
+  font-size: 24px;
+  line-height: 35px;
+}
+.engl {
+  margin-top: 30px;
+  font-size: 24px;
+  line-height: 35px;
+}
+.skills-info {
+  margin-top: 15px;
+}
+.engl-info {
+  margin-top: 15px;
+}
+.text-naranja {
+  color: orange;
+  display: inline-block;
+}
+.text-azul {
+  color: royalblue;
+  display: inline-block;
+}
+.text-fiol {
+  color: violet;
+  display: inline-block;
+}
+.text-verde {
+  color: green;
+  display: inline-block;
+}
